@@ -1,3 +1,9 @@
+This is a fork to keep order of firmwares to my Ender 3 pro printer.
+Starting with vanilla Marlin on a replaced MSK Gen L, then:
+- add bed leveling with microswitch/servo
+- add max endstops
+- 
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
