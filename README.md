@@ -1,7 +1,7 @@
 # This branch
 
 This branch contains the basic configuration to get the original controller on Ender 3 pro to work with Marlin without any new features added. Other branches will be made from this one.
-Linear advance in this commit and changed author text"
+No linear advance in this commit and changed author text"
 
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
