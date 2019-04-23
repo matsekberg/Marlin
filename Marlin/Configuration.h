@@ -74,7 +74,7 @@
 // User-specified version info of this build to display in [Pronterface, etc] terminal window during
 // startup. Implementation of an idea by Prof Braino to inform user that any changes made to this
 // build by the user have been successfully uploaded into firmware.
-#define STRING_CONFIG_H_AUTHOR "(MatsE#5 E3p MKSGenL 2208 calibE noABL)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(MatsE#5 E3p MKSGenL 2208 calibE linadv noABL)" // Who made the changes.
 #define SHOW_BOOTSCREEN
 #define STRING_SPLASH_LINE1 SHORT_BUILD_VERSION // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 WEBSITE_URL         // will be shown during bootup in line 2
@@ -719,7 +719,7 @@
  * Z Servo Probe, such as an endstop switch on a rotating arm.
  */
 //MEG #define Z_PROBE_SERVO_NR   0     // Defaults to SERVO 0 connector.
-#define Z_SERVO_ANGLES   {70,0}  // Z Servo Deploy and Stow angles
+#define Z_SERVO_ANGLES   {122,35}        // Z Servo Deploy and Stow angles
 
 /**
  * The BLTouch probe uses a Hall effect sensor and emulates a servo.
